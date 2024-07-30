@@ -100,7 +100,7 @@ console.log(session?.user.id)
           data={searchedResults}
           handleTagClick={()=>{}}
          />)
-  :(<p className="text-gray-500 font-satoshi font-semibold">Hello! {session?.user.name}, get get your required posts</p> )
+  :(<p className="text-gray-500 font-satoshi font-semibold">Hello! {session?.user.name}, get your required posts</p> )
 
  }
        
