@@ -1,6 +1,6 @@
 Modern type of note creating and share with others.
 
-### 💵 How to Contribute
+## 💵 How to Contribute
 
    #### 1. Fork the repository to your GitHub account.
    #### 2. Clone the forked repository to your local machine.
