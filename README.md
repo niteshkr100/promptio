@@ -23,11 +23,4 @@ Modern type of note creating and share with others.
    ```
    #### 7. Open a Pull Request (PR) against the main repository.
 
-
-Open (https://promptio-zrc2.vercel.app/) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
  
