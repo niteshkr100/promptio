@@ -1,4 +1,4 @@
-## Modern type of note creating and share with others!
+## Modern type of note creating and share with others
 
 ## How to Contribute
 
